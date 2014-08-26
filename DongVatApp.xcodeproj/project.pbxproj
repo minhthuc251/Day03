@@ -1,0 +1,412 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A241919C19AC2A7B00CBC468 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A241919B19AC2A7B00CBC468 /* AppDelegate.swift */; };
+		A241919E19AC2A7B00CBC468 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A241919D19AC2A7B00CBC468 /* ViewController.swift */; };
+		A24191A119AC2A7B00CBC468 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A241919F19AC2A7B00CBC468 /* Main.storyboard */; };
+		A24191A319AC2A7B00CBC468 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A24191A219AC2A7B00CBC468 /* Images.xcassets */; };
+		A24191AF19AC2A7B00CBC468 /* DongVatAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24191AE19AC2A7B00CBC468 /* DongVatAppTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A24191A919AC2A7B00CBC468 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A241918E19AC2A7A00CBC468 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A241919519AC2A7B00CBC468;
+			remoteInfo = DongVatApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A241919619AC2A7B00CBC468 /* DongVatApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DongVatApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A241919A19AC2A7B00CBC468 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A241919B19AC2A7B00CBC468 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A241919D19AC2A7B00CBC468 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A24191A019AC2A7B00CBC468 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A24191A219AC2A7B00CBC468 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A24191A819AC2A7B00CBC468 /* DongVatAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DongVatAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A24191AD19AC2A7B00CBC468 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A24191AE19AC2A7B00CBC468 /* DongVatAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DongVatAppTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A241919319AC2A7B00CBC468 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A24191A519AC2A7B00CBC468 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A241918D19AC2A7A00CBC468 = {
+			isa = PBXGroup;
+			children = (
+				A241919819AC2A7B00CBC468 /* DongVatApp */,
+				A24191AB19AC2A7B00CBC468 /* DongVatAppTests */,
+				A241919719AC2A7B00CBC468 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A241919719AC2A7B00CBC468 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A241919619AC2A7B00CBC468 /* DongVatApp.app */,
+				A24191A819AC2A7B00CBC468 /* DongVatAppTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A241919819AC2A7B00CBC468 /* DongVatApp */ = {
+			isa = PBXGroup;
+			children = (
+				A241919B19AC2A7B00CBC468 /* AppDelegate.swift */,
+				A241919D19AC2A7B00CBC468 /* ViewController.swift */,
+				A241919F19AC2A7B00CBC468 /* Main.storyboard */,
+				A24191A219AC2A7B00CBC468 /* Images.xcassets */,
+				A241919919AC2A7B00CBC468 /* Supporting Files */,
+			);
+			path = DongVatApp;
+			sourceTree = "<group>";
+		};
+		A241919919AC2A7B00CBC468 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A241919A19AC2A7B00CBC468 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A24191AB19AC2A7B00CBC468 /* DongVatAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				A24191AE19AC2A7B00CBC468 /* DongVatAppTests.swift */,
+				A24191AC19AC2A7B00CBC468 /* Supporting Files */,
+			);
+			path = DongVatAppTests;
+			sourceTree = "<group>";
+		};
+		A24191AC19AC2A7B00CBC468 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A24191AD19AC2A7B00CBC468 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A241919519AC2A7B00CBC468 /* DongVatApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A24191B219AC2A7B00CBC468 /* Build configuration list for PBXNativeTarget "DongVatApp" */;
+			buildPhases = (
+				A241919219AC2A7B00CBC468 /* Sources */,
+				A241919319AC2A7B00CBC468 /* Frameworks */,
+				A241919419AC2A7B00CBC468 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DongVatApp;
+			productName = DongVatApp;
+			productReference = A241919619AC2A7B00CBC468 /* DongVatApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A24191A719AC2A7B00CBC468 /* DongVatAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A24191B519AC2A7B00CBC468 /* Build configuration list for PBXNativeTarget "DongVatAppTests" */;
+			buildPhases = (
+				A24191A419AC2A7B00CBC468 /* Sources */,
+				A24191A519AC2A7B00CBC468 /* Frameworks */,
+				A24191A619AC2A7B00CBC468 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A24191AA19AC2A7B00CBC468 /* PBXTargetDependency */,
+			);
+			name = DongVatAppTests;
+			productName = DongVatAppTests;
+			productReference = A24191A819AC2A7B00CBC468 /* DongVatAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A241918E19AC2A7A00CBC468 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+				ORGANIZATIONNAME = thuc;
+				TargetAttributes = {
+					A241919519AC2A7B00CBC468 = {
+						CreatedOnToolsVersion = 6.0;
+					};
+					A24191A719AC2A7B00CBC468 = {
+						CreatedOnToolsVersion = 6.0;
+						TestTargetID = A241919519AC2A7B00CBC468;
+					};
+				};
+			};
+			buildConfigurationList = A241919119AC2A7A00CBC468 /* Build configuration list for PBXProject "DongVatApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A241918D19AC2A7A00CBC468;
+			productRefGroup = A241919719AC2A7B00CBC468 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A241919519AC2A7B00CBC468 /* DongVatApp */,
+				A24191A719AC2A7B00CBC468 /* DongVatAppTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A241919419AC2A7B00CBC468 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A24191A119AC2A7B00CBC468 /* Main.storyboard in Resources */,
+				A24191A319AC2A7B00CBC468 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A24191A619AC2A7B00CBC468 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A241919219AC2A7B00CBC468 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A241919E19AC2A7B00CBC468 /* ViewController.swift in Sources */,
+				A241919C19AC2A7B00CBC468 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A24191A419AC2A7B00CBC468 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A24191AF19AC2A7B00CBC468 /* DongVatAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A24191AA19AC2A7B00CBC468 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A241919519AC2A7B00CBC468 /* DongVatApp */;
+			targetProxy = A24191A919AC2A7B00CBC468 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		A241919F19AC2A7B00CBC468 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A24191A019AC2A7B00CBC468 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A24191B019AC2A7B00CBC468 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A24191B119AC2A7B00CBC468 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A24191B319AC2A7B00CBC468 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = DongVatApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A24191B419AC2A7B00CBC468 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = DongVatApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A24191B619AC2A7B00CBC468 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = DongVatAppTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DongVatApp.app/DongVatApp";
+			};
+			name = Debug;
+		};
+		A24191B719AC2A7B00CBC468 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = DongVatAppTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DongVatApp.app/DongVatApp";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A241919119AC2A7A00CBC468 /* Build configuration list for PBXProject "DongVatApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A24191B019AC2A7B00CBC468 /* Debug */,
+				A24191B119AC2A7B00CBC468 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A24191B219AC2A7B00CBC468 /* Build configuration list for PBXNativeTarget "DongVatApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A24191B319AC2A7B00CBC468 /* Debug */,
+				A24191B419AC2A7B00CBC468 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		A24191B519AC2A7B00CBC468 /* Build configuration list for PBXNativeTarget "DongVatAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A24191B619AC2A7B00CBC468 /* Debug */,
+				A24191B719AC2A7B00CBC468 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A241918E19AC2A7A00CBC468 /* Project object */;
+}
