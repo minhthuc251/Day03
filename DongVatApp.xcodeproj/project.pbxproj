@@ -7,11 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E2DE1BE19ACA8BA00DDED1C /* 1409070946_speaker.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E2DE1BC19ACA8BA00DDED1C /* 1409070946_speaker.png */; };
+		2E2DE1BF19ACA8BA00DDED1C /* Frog.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2E2DE1BD19ACA8BA00DDED1C /* Frog.wav */; };
+		2E6FFF3719AC9CC4008F3F48 /* ChickenShow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E6FFF3319AC9CC4008F3F48 /* ChickenShow.swift */; };
+		2E6FFF3819AC9CC4008F3F48 /* DogShow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E6FFF3419AC9CC4008F3F48 /* DogShow.swift */; };
+		2E6FFF3A19AC9CC4008F3F48 /* SnakeShow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E6FFF3619AC9CC4008F3F48 /* SnakeShow.swift */; };
+		2E6FFF4519AC9D9C008F3F48 /* 339432-dogs-music-dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF3B19AC9D9C008F3F48 /* 339432-dogs-music-dog.jpg */; };
+		2E6FFF4619AC9D9C008F3F48 /* 1409061195_white_tiger.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF3C19AC9D9C008F3F48 /* 1409061195_white_tiger.png */; };
+		2E6FFF4719AC9D9C008F3F48 /* 1409062022_chiken.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF3D19AC9D9C008F3F48 /* 1409062022_chiken.png */; };
+		2E6FFF4819AC9D9C008F3F48 /* 1409062131_Hypnotoad.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF3E19AC9D9C008F3F48 /* 1409062131_Hypnotoad.png */; };
+		2E6FFF4919AC9D9C008F3F48 /* 1409062146_bulldog.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF3F19AC9D9C008F3F48 /* 1409062146_bulldog.png */; };
+		2E6FFF4A19AC9D9C008F3F48 /* 1409062157_ksnake.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF4019AC9D9C008F3F48 /* 1409062157_ksnake.png */; };
+		2E6FFF4B19AC9D9C008F3F48 /* 1409066141_Speaker.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF4119AC9D9C008F3F48 /* 1409066141_Speaker.png */; };
+		2E6FFF4C19AC9D9C008F3F48 /* chicken.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF4219AC9D9C008F3F48 /* chicken.jpg */; };
+		2E6FFF4D19AC9D9C008F3F48 /* Frog-After-Diner-HD.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF4319AC9D9C008F3F48 /* Frog-After-Diner-HD.jpg */; };
+		2E6FFF4E19AC9D9C008F3F48 /* Tiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF4419AC9D9C008F3F48 /* Tiger.jpg */; };
+		2E6FFF5019AC9E72008F3F48 /* FrogShow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E6FFF4F19AC9E72008F3F48 /* FrogShow.swift */; };
+		2E6FFF5219AC9F1F008F3F48 /* 1409068478_kmixdocked_error.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E6FFF5119AC9F1F008F3F48 /* 1409068478_kmixdocked_error.png */; };
+		2EAB3F8019ACB4500056E451 /* Chicks.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2EAB3F7C19ACB4500056E451 /* Chicks.wav */; };
+		2EAB3F8119ACB4500056E451 /* Dog.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2EAB3F7D19ACB4500056E451 /* Dog.wav */; };
+		2EAB3F8219ACB4500056E451 /* Snake.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2EAB3F7E19ACB4500056E451 /* Snake.wav */; };
+		2EAB3F8319ACB4500056E451 /* Tiger.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2EAB3F7F19ACB4500056E451 /* Tiger.wav */; };
 		A241919C19AC2A7B00CBC468 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A241919B19AC2A7B00CBC468 /* AppDelegate.swift */; };
 		A241919E19AC2A7B00CBC468 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A241919D19AC2A7B00CBC468 /* ViewController.swift */; };
 		A24191A119AC2A7B00CBC468 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A241919F19AC2A7B00CBC468 /* Main.storyboard */; };
 		A24191A319AC2A7B00CBC468 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A24191A219AC2A7B00CBC468 /* Images.xcassets */; };
 		A24191AF19AC2A7B00CBC468 /* DongVatAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24191AE19AC2A7B00CBC468 /* DongVatAppTests.swift */; };
+		A24191BE19AC304B00CBC468 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24191BD19AC304B00CBC468 /* Animal.swift */; };
+		A24191CA19AC3BD400CBC468 /* TigerShow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24191C919AC3BD400CBC468 /* TigerShow.swift */; };
+		F415958919AF9CE1002CCB81 /* snake-hd-wallpapers-best-desktop-background-pictures-widescreen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F415958819AF9CE1002CCB81 /* snake-hd-wallpapers-best-desktop-background-pictures-widescreen.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -25,6 +49,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2E2DE1BC19ACA8BA00DDED1C /* 1409070946_speaker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1409070946_speaker.png; sourceTree = "<group>"; };
+		2E2DE1BD19ACA8BA00DDED1C /* Frog.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Frog.wav; sourceTree = "<group>"; };
+		2E6FFF3319AC9CC4008F3F48 /* ChickenShow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChickenShow.swift; sourceTree = "<group>"; };
+		2E6FFF3419AC9CC4008F3F48 /* DogShow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DogShow.swift; sourceTree = "<group>"; };
+		2E6FFF3619AC9CC4008F3F48 /* SnakeShow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnakeShow.swift; sourceTree = "<group>"; };
+		2E6FFF3B19AC9D9C008F3F48 /* 339432-dogs-music-dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "339432-dogs-music-dog.jpg"; sourceTree = "<group>"; };
+		2E6FFF3C19AC9D9C008F3F48 /* 1409061195_white_tiger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1409061195_white_tiger.png; sourceTree = "<group>"; };
+		2E6FFF3D19AC9D9C008F3F48 /* 1409062022_chiken.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1409062022_chiken.png; sourceTree = "<group>"; };
+		2E6FFF3E19AC9D9C008F3F48 /* 1409062131_Hypnotoad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1409062131_Hypnotoad.png; sourceTree = "<group>"; };
+		2E6FFF3F19AC9D9C008F3F48 /* 1409062146_bulldog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1409062146_bulldog.png; sourceTree = "<group>"; };
+		2E6FFF4019AC9D9C008F3F48 /* 1409062157_ksnake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1409062157_ksnake.png; sourceTree = "<group>"; };
+		2E6FFF4119AC9D9C008F3F48 /* 1409066141_Speaker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1409066141_Speaker.png; sourceTree = "<group>"; };
+		2E6FFF4219AC9D9C008F3F48 /* chicken.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chicken.jpg; sourceTree = "<group>"; };
+		2E6FFF4319AC9D9C008F3F48 /* Frog-After-Diner-HD.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Frog-After-Diner-HD.jpg"; sourceTree = "<group>"; };
+		2E6FFF4419AC9D9C008F3F48 /* Tiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tiger.jpg; sourceTree = "<group>"; };
+		2E6FFF4F19AC9E72008F3F48 /* FrogShow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FrogShow.swift; sourceTree = "<group>"; };
+		2E6FFF5119AC9F1F008F3F48 /* 1409068478_kmixdocked_error.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1409068478_kmixdocked_error.png; sourceTree = "<group>"; };
+		2EAB3F7C19ACB4500056E451 /* Chicks.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Chicks.wav; sourceTree = "<group>"; };
+		2EAB3F7D19ACB4500056E451 /* Dog.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Dog.wav; sourceTree = "<group>"; };
+		2EAB3F7E19ACB4500056E451 /* Snake.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Snake.wav; sourceTree = "<group>"; };
+		2EAB3F7F19ACB4500056E451 /* Tiger.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Tiger.wav; sourceTree = "<group>"; };
 		A241919619AC2A7B00CBC468 /* DongVatApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DongVatApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A241919A19AC2A7B00CBC468 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A241919B19AC2A7B00CBC468 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -34,6 +79,9 @@
 		A24191A819AC2A7B00CBC468 /* DongVatAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DongVatAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A24191AD19AC2A7B00CBC468 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A24191AE19AC2A7B00CBC468 /* DongVatAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DongVatAppTests.swift; sourceTree = "<group>"; };
+		A24191BD19AC304B00CBC468 /* Animal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		A24191C919AC3BD400CBC468 /* TigerShow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TigerShow.swift; sourceTree = "<group>"; };
+		F415958819AF9CE1002CCB81 /* snake-hd-wallpapers-best-desktop-background-pictures-widescreen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "snake-hd-wallpapers-best-desktop-background-pictures-widescreen.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +102,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2EAB3F7B19ACB43C0056E451 /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+				2EAB3F7C19ACB4500056E451 /* Chicks.wav */,
+				2EAB3F7D19ACB4500056E451 /* Dog.wav */,
+				2EAB3F7E19ACB4500056E451 /* Snake.wav */,
+				2EAB3F7F19ACB4500056E451 /* Tiger.wav */,
+				2E2DE1BD19ACA8BA00DDED1C /* Frog.wav */,
+			);
+			name = Sound;
+			sourceTree = "<group>";
+		};
+		2EAB3F8419ACBA470056E451 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				F415958819AF9CE1002CCB81 /* snake-hd-wallpapers-best-desktop-background-pictures-widescreen.jpg */,
+				2E2DE1BC19ACA8BA00DDED1C /* 1409070946_speaker.png */,
+				2E6FFF5119AC9F1F008F3F48 /* 1409068478_kmixdocked_error.png */,
+				2E6FFF3B19AC9D9C008F3F48 /* 339432-dogs-music-dog.jpg */,
+				2E6FFF3C19AC9D9C008F3F48 /* 1409061195_white_tiger.png */,
+				2E6FFF3D19AC9D9C008F3F48 /* 1409062022_chiken.png */,
+				2E6FFF3E19AC9D9C008F3F48 /* 1409062131_Hypnotoad.png */,
+				2E6FFF3F19AC9D9C008F3F48 /* 1409062146_bulldog.png */,
+				2E6FFF4019AC9D9C008F3F48 /* 1409062157_ksnake.png */,
+				2E6FFF4119AC9D9C008F3F48 /* 1409066141_Speaker.png */,
+				2E6FFF4219AC9D9C008F3F48 /* chicken.jpg */,
+				2E6FFF4319AC9D9C008F3F48 /* Frog-After-Diner-HD.jpg */,
+				2E6FFF4419AC9D9C008F3F48 /* Tiger.jpg */,
+			);
+			name = Image;
+			sourceTree = "<group>";
+		};
 		A241918D19AC2A7A00CBC468 = {
 			isa = PBXGroup;
 			children = (
+				2EAB3F8419ACBA470056E451 /* Image */,
+				2EAB3F7B19ACB43C0056E451 /* Sound */,
 				A241919819AC2A7B00CBC468 /* DongVatApp */,
 				A24191AB19AC2A7B00CBC468 /* DongVatAppTests */,
 				A241919719AC2A7B00CBC468 /* Products */,
@@ -75,6 +157,7 @@
 		A241919819AC2A7B00CBC468 /* DongVatApp */ = {
 			isa = PBXGroup;
 			children = (
+				A24191BA19AC2F0900CBC468 /* Animals */,
 				A241919B19AC2A7B00CBC468 /* AppDelegate.swift */,
 				A241919D19AC2A7B00CBC468 /* ViewController.swift */,
 				A241919F19AC2A7B00CBC468 /* Main.storyboard */,
@@ -107,6 +190,19 @@
 				A24191AD19AC2A7B00CBC468 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A24191BA19AC2F0900CBC468 /* Animals */ = {
+			isa = PBXGroup;
+			children = (
+				2E6FFF4F19AC9E72008F3F48 /* FrogShow.swift */,
+				2E6FFF3319AC9CC4008F3F48 /* ChickenShow.swift */,
+				2E6FFF3419AC9CC4008F3F48 /* DogShow.swift */,
+				2E6FFF3619AC9CC4008F3F48 /* SnakeShow.swift */,
+				A24191BD19AC304B00CBC468 /* Animal.swift */,
+				A24191C919AC3BD400CBC468 /* TigerShow.swift */,
+			);
+			name = Animals;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -189,8 +285,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E6FFF5219AC9F1F008F3F48 /* 1409068478_kmixdocked_error.png in Resources */,
+				F415958919AF9CE1002CCB81 /* snake-hd-wallpapers-best-desktop-background-pictures-widescreen.jpg in Resources */,
 				A24191A119AC2A7B00CBC468 /* Main.storyboard in Resources */,
+				2E6FFF4719AC9D9C008F3F48 /* 1409062022_chiken.png in Resources */,
+				2E2DE1BF19ACA8BA00DDED1C /* Frog.wav in Resources */,
+				2E6FFF4519AC9D9C008F3F48 /* 339432-dogs-music-dog.jpg in Resources */,
+				2E6FFF4E19AC9D9C008F3F48 /* Tiger.jpg in Resources */,
 				A24191A319AC2A7B00CBC468 /* Images.xcassets in Resources */,
+				2E6FFF4D19AC9D9C008F3F48 /* Frog-After-Diner-HD.jpg in Resources */,
+				2E6FFF4619AC9D9C008F3F48 /* 1409061195_white_tiger.png in Resources */,
+				2E6FFF4819AC9D9C008F3F48 /* 1409062131_Hypnotoad.png in Resources */,
+				2E2DE1BE19ACA8BA00DDED1C /* 1409070946_speaker.png in Resources */,
+				2EAB3F8019ACB4500056E451 /* Chicks.wav in Resources */,
+				2E6FFF4B19AC9D9C008F3F48 /* 1409066141_Speaker.png in Resources */,
+				2EAB3F8219ACB4500056E451 /* Snake.wav in Resources */,
+				2EAB3F8119ACB4500056E451 /* Dog.wav in Resources */,
+				2E6FFF4919AC9D9C008F3F48 /* 1409062146_bulldog.png in Resources */,
+				2EAB3F8319ACB4500056E451 /* Tiger.wav in Resources */,
+				2E6FFF4A19AC9D9C008F3F48 /* 1409062157_ksnake.png in Resources */,
+				2E6FFF4C19AC9D9C008F3F48 /* chicken.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -208,8 +322,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A24191CA19AC3BD400CBC468 /* TigerShow.swift in Sources */,
+				2E6FFF5019AC9E72008F3F48 /* FrogShow.swift in Sources */,
+				2E6FFF3819AC9CC4008F3F48 /* DogShow.swift in Sources */,
+				2E6FFF3719AC9CC4008F3F48 /* ChickenShow.swift in Sources */,
 				A241919E19AC2A7B00CBC468 /* ViewController.swift in Sources */,
+				2E6FFF3A19AC9CC4008F3F48 /* SnakeShow.swift in Sources */,
 				A241919C19AC2A7B00CBC468 /* AppDelegate.swift in Sources */,
+				A24191BE19AC304B00CBC468 /* Animal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -397,6 +517,7 @@
 				A24191B419AC2A7B00CBC468 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A24191B519AC2A7B00CBC468 /* Build configuration list for PBXNativeTarget "DongVatAppTests" */ = {
 			isa = XCConfigurationList;
@@ -405,6 +526,7 @@
 				A24191B719AC2A7B00CBC468 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
